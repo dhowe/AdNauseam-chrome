@@ -25,6 +25,7 @@ function init() {
 	
 	$("#about-button").click(function() {
 		//console.log("#about-button.click");
+		openTabHelp();
 	}); 
 
 }
@@ -56,7 +57,12 @@ function refresh_panel() {
 
 	$("#toggle-button").css("background-image", 'url('+img+')');
 	$("#pause-button").text(label); 
-	
 }
+
+function openTabHelp() {
+	window.open("https://github.com/dhowe/AdNauseam/wiki/Help");
+}
+
+
 
 $(document).ready(function() { init(); });
