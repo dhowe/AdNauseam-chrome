@@ -1,14 +1,12 @@
 {
   "manifest_version": 2,
 
-  "name": "AdNauseam-UI",
+  "name": "AdNauseam",
   "description": "A software tool and 'artware' intervention to defend against surveillance and tracking by ad-networks",
-  "version": "0.9.1",
+  "version": "0.0.1",
 
   "browser_action": {
-    "default_icon": {
-		"19": "data/img/icon-19.png",
-		"38": "data/img/icon-38.png"},
+    "default_icon": "data/img/icon-16.png",
     "default_popup": "data/popup-menu.html"
   }
 }
