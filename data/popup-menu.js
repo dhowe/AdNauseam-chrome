@@ -38,6 +38,8 @@ function refresh_panel() {
 		img = "img/adn78@2x.png", label = "Pause AdNauseam";
 		$("#pause-button").removeClass('disabled');
 	
+		chrome.browserAction.setIcon({path:"img/icon-19.png"});
+		
 		opts = 0;
 	}
 	
@@ -46,6 +48,8 @@ function refresh_panel() {
 		img = "img/adn78@2xg.png";
 		label = "Start AdNauseam";
 		$("#pause-button").addClass('disabled');
+		
+		chrome.browserAction.setIcon({path:"img/icon-19g.png"});
 		
 		opts = 1;
 	}
