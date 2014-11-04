@@ -21,6 +21,11 @@ function init() {
 	$("#settings-button").click(function() {
 		//console.log("#settings-button.click");
 		$(".page").toggleClass( "hide" );
+	});	
+	
+	$(".settings.close").click(function() {
+		//console.log(".settings.button.click");
+		$(".page").toggleClass( "hide" );
 	});
 	
 	$("#about-button").click(function() {
