@@ -1,4 +1,5 @@
-See https://github.com/dhowe/AdNauseam !
+
+Ready for beta-testing: see https://github.com/dhowe/AdNauseam
 
 
 
