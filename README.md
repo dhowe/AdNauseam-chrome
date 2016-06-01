@@ -1,9 +1,4 @@
-AdNauseam-chrome
-================
-
-A Chrome extension to help defend against surveillance and tracking by ad-networks
-
-
+See https://github.com/dhowe/AdNauseam !
 
 
 
