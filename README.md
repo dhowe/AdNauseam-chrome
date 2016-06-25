@@ -1,5 +1,5 @@
 
-Ready for beta-testing: see https://github.com/dhowe/AdNauseam
+Now located here: https://github.com/dhowe/AdNauseam-chrome
 
 
 
